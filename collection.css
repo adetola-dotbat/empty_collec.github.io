@@ -1,20 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@200;400;500;600;700&display=swap');
 
 :root{
-    --color-pink:hsl(322, 100%, 66%);
-    --color-veryPale-cyan:hsl(193, 100%, 96%);
-    --color-veryDark-cyan:hsl(192, 100%, 9%);
-    --color-grayish-blue:hsl(208, 11%, 55%);
-
-
     /* --font-size-1:18px; */
     --font-weights-1:200;
     --font-weights-2:400;
     --font-weights-3:500;
     --font-weights-4:600;
     --font-weights-5:700;
-
-    --color-light:rgba(52, 52, 53, 0.18);
     --box-shadow:0 0rem 0.6rem var(--color-light);
 
 }
